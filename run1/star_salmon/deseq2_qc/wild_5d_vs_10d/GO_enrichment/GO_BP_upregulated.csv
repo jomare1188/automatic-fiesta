@@ -1,0 +1,78 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009648,photoperiodism,1,1,0,0.0022,0.0154
+GO:0009649,entrainment of circadian clock,1,1,0,0.0022,0.0154
+GO:0018131,oxazole or thiazole biosynthetic process,1,1,0,0.0022,0.0154
+GO:0032922,circadian regulation of gene expression,1,1,0,0.0022,0.0154
+GO:0043153,entrainment of circadian clock by photop...,1,1,0,0.0022,0.0154
+GO:0045828,positive regulation of isoprenoid metabo...,1,1,0,0.0022,0.0154
+GO:0046484,oxazole or thiazole metabolic process,1,1,0,0.0022,0.0154
+GO:0052837,thiazole biosynthetic process,1,1,0,0.0022,0.0154
+GO:0052838,thiazole metabolic process,1,1,0,0.0022,0.0154
+GO:1900486,positive regulation of isopentenyl dipho...,1,1,0,0.0022,0.0154
+GO:2001210,regulation of isopentenyl diphosphate bi...,1,1,0,0.0022,0.0154
+GO:0006565,L-serine catabolic process,2,1,0,0.0045,0.0192
+GO:0007623,circadian rhythm,2,1,0,0.0045,0.0192
+GO:0042752,regulation of circadian rhythm,2,1,0,0.0045,0.0192
+GO:0045981,positive regulation of nucleotide metabo...,2,1,0,0.0045,0.0192
+GO:0051353,positive regulation of oxidoreductase ac...,2,1,0,0.0045,0.0192
+GO:1900439,positive regulation of filamentous growt...,2,1,0,0.0045,0.0192
+GO:1900544,positive regulation of purine nucleotide...,2,1,0,0.0045,0.0192
+GO:0048511,rhythmic process,3,1,0.01,0.0067,0.0245
+GO:0070262,peptidyl-serine dephosphorylation,3,1,0.01,0.0067,0.0245
+GO:0000272,polysaccharide catabolic process,65,2,0.15,0.0086,0.0245
+GO:0019747,regulation of isoprenoid metabolic proce...,4,1,0.01,0.0089,0.0245
+GO:0051341,regulation of oxidoreductase activity,4,1,0.01,0.0089,0.0245
+GO:1900437,regulation of filamentous growth of a po...,4,1,0.01,0.0089,0.0245
+GO:1900442,positive regulation of filamentous growt...,4,1,0.01,0.0089,0.0245
+GO:0006140,regulation of nucleotide metabolic proce...,5,1,0.01,0.0111,0.0245
+GO:0006567,threonine catabolic process,5,1,0.01,0.0111,0.0245
+GO:0006772,thiamine metabolic process,5,1,0.01,0.0111,0.0245
+GO:0009228,thiamine biosynthetic process,5,1,0.01,0.0111,0.0245
+GO:0019287,isopentenyl diphosphate biosynthetic pro...,5,1,0.01,0.0111,0.0245
+GO:0036168,filamentous growth of a population of un...,5,1,0.01,0.0111,0.0245
+GO:1900440,regulation of filamentous growth of a po...,5,1,0.01,0.0111,0.0245
+GO:1900542,regulation of purine nucleotide metaboli...,5,1,0.01,0.0111,0.0245
+GO:1900743,positive regulation of filamentous growt...,5,1,0.01,0.0111,0.0245
+GO:0005975,carbohydrate metabolic process,230,3,0.51,0.012,0.0245
+GO:0009068,aspartate family amino acid catabolic pr...,6,1,0.01,0.0134,0.0245
+GO:0009240,isopentenyl diphosphate biosynthetic pro...,6,1,0.01,0.0134,0.0245
+GO:0042723,thiamine-containing compound metabolic p...,6,1,0.01,0.0134,0.0245
+GO:0042724,thiamine-containing compound biosyntheti...,6,1,0.01,0.0134,0.0245
+GO:0046490,isopentenyl diphosphate metabolic proces...,6,1,0.01,0.0134,0.0245
+GO:0051176,positive regulation of sulfur metabolic ...,6,1,0.01,0.0134,0.0245
+GO:1900428,regulation of filamentous growth of a po...,88,2,0.2,0.0154,0.0245
+GO:0005980,glycogen catabolic process,7,1,0.02,0.0156,0.0245
+GO:0009071,serine family amino acid catabolic proce...,7,1,0.02,0.0156,0.0245
+GO:0034309,primary alcohol biosynthetic process,7,1,0.02,0.0156,0.0245
+GO:0042762,regulation of sulfur metabolic process,7,1,0.02,0.0156,0.0245
+GO:0071073,positive regulation of phospholipid bios...,7,1,0.02,0.0156,0.0245
+GO:1900741,regulation of filamentous growth of a po...,7,1,0.02,0.0156,0.0245
+GO:1903727,positive regulation of phospholipid meta...,7,1,0.02,0.0156,0.0245
+GO:0010570,regulation of filamentous growth,92,2,0.21,0.0168,0.0259
+GO:0045491,xylan metabolic process,8,1,0.02,0.0178,0.0264
+GO:0045493,xylan catabolic process,8,1,0.02,0.0178,0.0264
+GO:0016052,carbohydrate catabolic process,97,2,0.22,0.0186,0.027
+GO:0036171,filamentous growth of a population of un...,9,1,0.02,0.02,0.0285
+GO:0040008,regulation of growth,112,2,0.25,0.0243,0.033
+GO:0006566,threonine metabolic process,11,1,0.02,0.0244,0.033
+GO:2000895,hemicellulose catabolic process,11,1,0.02,0.0244,0.033
+GO:0006563,L-serine metabolic process,12,1,0.03,0.0266,0.0347
+GO:0046889,positive regulation of lipid biosyntheti...,12,1,0.03,0.0266,0.0347
+GO:0010410,hemicellulose metabolic process,13,1,0.03,0.0287,0.0356
+GO:0034308,primary alcohol metabolic process,13,1,0.03,0.0287,0.0356
+GO:0046835,carbohydrate phosphorylation,13,1,0.03,0.0287,0.0356
+GO:0008299,isoprenoid biosynthetic process,14,1,0.03,0.0309,0.0366
+GO:0045834,positive regulation of lipid metabolic p...,14,1,0.03,0.0309,0.0366
+GO:1900436,positive regulation of filamentous growt...,14,1,0.03,0.0309,0.0366
+GO:0005976,polysaccharide metabolic process,131,2,0.29,0.0326,0.0375
+GO:0036244,cellular response to neutral pH,15,1,0.03,0.0331,0.0375
+GO:0071071,regulation of phospholipid biosynthetic ...,15,1,0.03,0.0331,0.0375
+GO:0016998,cell wall macromolecule catabolic proces...,16,1,0.04,0.0353,0.0388
+GO:0044347,cell wall polysaccharide catabolic proce...,16,1,0.04,0.0353,0.0388
+GO:0036178,filamentous growth of a population of un...,17,1,0.04,0.0374,0.04
+GO:1900434,regulation of filamentous growth of a po...,17,1,0.04,0.0374,0.04
+GO:0006084,acetyl-CoA metabolic process,18,1,0.04,0.0396,0.0412
+GO:0036176,response to neutral pH,18,1,0.04,0.0396,0.0412
+GO:0006790,sulfur compound metabolic process,147,2,0.33,0.0403,0.0414
+GO:0062013,positive regulation of small molecule me...,20,1,0.04,0.0439,0.0445
+GO:0036177,filamentous growth of a population of un...,21,1,0.05,0.0461,0.0461

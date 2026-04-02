@@ -1,0 +1,104 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0035635,entry of bacterium into host cell,1,1,0,0.0012,0.0309
+GO:0044650,adhesion of symbiont to host cell,1,1,0,0.0012,0.0309
+GO:0046166,glyceraldehyde-3-phosphate biosynthetic ...,1,1,0,0.0012,0.0309
+GO:2000535,regulation of entry of bacterium into ho...,1,1,0,0.0012,0.0309
+GO:0019405,alditol catabolic process,2,1,0,0.0025,0.0387
+GO:0019563,glycerol catabolic process,2,1,0,0.0025,0.0387
+GO:0000161,osmosensory signaling MAPK cascade,3,1,0,0.0037,0.0387
+GO:0007234,osmosensory signaling via phosphorelay p...,4,1,0,0.005,0.0387
+GO:0046174,polyol catabolic process,4,1,0,0.005,0.0387
+GO:0046184,aldehyde biosynthetic process,4,1,0,0.005,0.0387
+GO:0052372,modulation by symbiont of entry into hos...,4,1,0,0.005,0.0387
+GO:0071474,cellular hyperosmotic response,5,1,0.01,0.0062,0.0387
+GO:0006071,glycerol metabolic process,6,1,0.01,0.0074,0.0387
+GO:0034088,maintenance of mitotic sister chromatid ...,6,1,0.01,0.0074,0.0387
+GO:0048584,positive regulation of response to stimu...,120,2,0.15,0.0083,0.0387
+GO:0000160,phosphorelay signal transduction system,7,1,0.01,0.0087,0.0387
+GO:0019400,alditol metabolic process,7,1,0.01,0.0087,0.0387
+GO:0006007,glucose catabolic process,8,1,0.01,0.0099,0.0387
+GO:0006735,NADH regeneration,8,1,0.01,0.0099,0.0387
+GO:0034086,maintenance of sister chromatid cohesion,8,1,0.01,0.0099,0.0387
+GO:0035753,maintenance of DNA trinucleotide repeats,8,1,0.01,0.0099,0.0387
+GO:0043903,regulation of biological process involve...,8,1,0.01,0.0099,0.0387
+GO:0061615,glycolytic process through fructose-6-ph...,8,1,0.01,0.0099,0.0387
+GO:0061620,glycolytic process through glucose-6-pho...,8,1,0.01,0.0099,0.0387
+GO:0061621,canonical glycolysis,8,1,0.01,0.0099,0.0387
+GO:0061718,glucose catabolic process to pyruvate,8,1,0.01,0.0099,0.0387
+GO:0006972,hyperosmotic response,9,1,0.01,0.0111,0.0387
+GO:0046164,alcohol catabolic process,9,1,0.01,0.0111,0.0387
+GO:0019682,glyceraldehyde-3-phosphate metabolic pro...,10,1,0.01,0.0124,0.0387
+GO:0042866,pyruvate biosynthetic process,10,1,0.01,0.0124,0.0387
+GO:0044416,induction by symbiont of host defense re...,10,1,0.01,0.0124,0.0387
+GO:0097307,response to farnesol,10,1,0.01,0.0124,0.0387
+GO:0097308,cellular response to farnesol,10,1,0.01,0.0124,0.0387
+GO:0019320,hexose catabolic process,12,1,0.01,0.0148,0.0401
+GO:0044000,movement in host,12,1,0.01,0.0148,0.0401
+GO:0044003,modulation by symbiont of host process,12,1,0.01,0.0148,0.0401
+GO:0044409,entry into host,12,1,0.01,0.0148,0.0401
+GO:0052031,modulation by symbiont of host defense r...,12,1,0.01,0.0148,0.0401
+GO:0006096,glycolytic process,14,1,0.02,0.0173,0.0408
+GO:0007231,osmosensory signaling pathway,14,1,0.02,0.0173,0.0408
+GO:0044406,adhesion of symbiont to host,14,1,0.02,0.0173,0.0408
+GO:0046031,ADP metabolic process,14,1,0.02,0.0173,0.0408
+GO:1901616,organic hydroxy compound catabolic proce...,14,1,0.02,0.0173,0.0408
+GO:0009135,purine nucleoside diphosphate metabolic ...,15,1,0.02,0.0185,0.0408
+GO:0009179,purine ribonucleoside diphosphate metabo...,15,1,0.02,0.0185,0.0408
+GO:0035821,modulation of process of another organis...,15,1,0.02,0.0185,0.0408
+GO:0009185,ribonucleoside diphosphate metabolic pro...,16,1,0.02,0.0197,0.0408
+GO:0031349,positive regulation of defense response,16,1,0.02,0.0197,0.0408
+GO:0006734,NADH metabolic process,17,1,0.02,0.021,0.0408
+GO:0009435,NAD biosynthetic process,17,1,0.02,0.021,0.0408
+GO:0046365,monosaccharide catabolic process,17,1,0.02,0.021,0.0408
+GO:0052200,response to host defenses,17,1,0.02,0.021,0.0408
+GO:0075136,response to host,17,1,0.02,0.021,0.0408
+GO:0009166,nucleotide catabolic process,18,1,0.02,0.0222,0.0416
+GO:0052173,response to defenses of other organism,18,1,0.02,0.0222,0.0416
+GO:0009132,nucleoside diphosphate metabolic process,19,1,0.02,0.0234,0.0416
+GO:0071396,cellular response to lipid,19,1,0.02,0.0234,0.0416
+GO:1901292,nucleoside phosphate catabolic process,19,1,0.02,0.0234,0.0416
+GO:0019359,nicotinamide nucleotide biosynthetic pro...,21,1,0.03,0.0258,0.0418
+GO:0031347,regulation of defense response,21,1,0.03,0.0258,0.0418
+GO:0033993,response to lipid,21,1,0.03,0.0258,0.0418
+GO:0006952,defense response,22,1,0.03,0.0271,0.0418
+GO:0043406,positive regulation of MAP kinase activi...,22,1,0.03,0.0271,0.0418
+GO:0019363,pyridine nucleotide biosynthetic process,23,1,0.03,0.0283,0.0418
+GO:0043570,maintenance of DNA repeat elements,24,1,0.03,0.0295,0.0418
+GO:0046777,protein autophosphorylation,24,1,0.03,0.0295,0.0418
+GO:0006090,pyruvate metabolic process,25,1,0.03,0.0307,0.0418
+GO:0006094,gluconeogenesis,25,1,0.03,0.0307,0.0418
+GO:0006743,ubiquinone metabolic process,25,1,0.03,0.0307,0.0418
+GO:0006744,ubiquinone biosynthetic process,25,1,0.03,0.0307,0.0418
+GO:0019319,hexose biosynthetic process,25,1,0.03,0.0307,0.0418
+GO:0019751,polyol metabolic process,25,1,0.03,0.0307,0.0418
+GO:0046364,monosaccharide biosynthetic process,26,1,0.03,0.0319,0.0418
+GO:1901661,quinone metabolic process,26,1,0.03,0.0319,0.0418
+GO:1901663,quinone biosynthetic process,26,1,0.03,0.0319,0.0418
+GO:0006754,ATP biosynthetic process,27,1,0.03,0.0331,0.0418
+GO:0007064,mitotic sister chromatid cohesion,27,1,0.03,0.0331,0.0418
+GO:0019674,NAD metabolic process,27,1,0.03,0.0331,0.0418
+GO:0043405,regulation of MAP kinase activity,27,1,0.03,0.0331,0.0418
+GO:0051403,stress-activated MAPK cascade,27,1,0.03,0.0331,0.0418
+GO:0043207,response to external biotic stimulus,28,1,0.03,0.0343,0.0418
+GO:0046434,organophosphate catabolic process,28,1,0.03,0.0343,0.0418
+GO:0051707,response to other organism,28,1,0.03,0.0343,0.0418
+GO:0072525,pyridine-containing compound biosyntheti...,28,1,0.03,0.0343,0.0418
+GO:0033554,cellular response to stress,665,3,0.83,0.0346,0.0418
+GO:0009145,purine nucleoside triphosphate biosynthe...,29,1,0.04,0.0355,0.0418
+GO:0009206,purine ribonucleoside triphosphate biosy...,29,1,0.04,0.0355,0.0418
+GO:0048583,regulation of response to stimulus,257,2,0.32,0.0357,0.0418
+GO:0009201,ribonucleoside triphosphate biosynthetic...,31,1,0.04,0.038,0.0435
+GO:0043410,positive regulation of MAPK cascade,31,1,0.04,0.038,0.0435
+GO:0009142,nucleoside triphosphate biosynthetic pro...,33,1,0.04,0.0404,0.0452
+GO:0097306,cellular response to alcohol,33,1,0.04,0.0404,0.0452
+GO:0006950,response to stress,707,3,0.88,0.0409,0.0453
+GO:0097305,response to alcohol,34,1,0.04,0.0416,0.0456
+GO:0034404,nucleobase-containing small molecule bio...,36,1,0.04,0.044,0.0472
+GO:0051701,biological process involved in interacti...,36,1,0.04,0.044,0.0472
+GO:0071902,positive regulation of protein serine/th...,37,1,0.05,0.0452,0.048
+GO:0009127,purine nucleoside monophosphate biosynth...,38,1,0.05,0.0464,0.0483
+GO:0009168,purine ribonucleoside monophosphate bios...,38,1,0.05,0.0464,0.0483
+GO:0006006,glucose metabolic process,39,1,0.05,0.0476,0.0485
+GO:0006081,cellular aldehyde metabolic process,39,1,0.05,0.0476,0.0485
+GO:0031098,stress-activated protein kinase signalin...,40,1,0.05,0.0488,0.0488
+GO:0043408,regulation of MAPK cascade,40,1,0.05,0.0488,0.0488

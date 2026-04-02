@@ -1,0 +1,34 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0007283,spermatogenesis,1,1,0,5e-04,0.0055
+GO:0007286,spermatid development,1,1,0,5e-04,0.0055
+GO:0048515,spermatid differentiation,1,1,0,5e-04,0.0055
+GO:0048232,male gamete generation,4,1,0,0.002,0.0132
+GO:0061186,negative regulation of silent mating-typ...,4,1,0,0.002,0.0132
+GO:0090054,regulation of silent mating-type cassett...,10,1,0,0.005,0.0268
+GO:0031452,negative regulation of heterochromatin f...,13,1,0.01,0.0065,0.0268
+GO:0120262,negative regulation of heterochromatin o...,13,1,0.01,0.0065,0.0268
+GO:0006998,nuclear envelope organization,15,1,0.01,0.0074,0.0271
+GO:0045815,transcription initiation-coupled chromat...,19,1,0.01,0.0094,0.0299
+GO:0007281,germ cell development,28,1,0.01,0.0139,0.0299
+GO:0007276,gamete generation,31,1,0.02,0.0154,0.0299
+GO:0022412,cellular process involved in reproductio...,31,1,0.02,0.0154,0.0299
+GO:0032504,multicellular organism reproduction,31,1,0.02,0.0154,0.0299
+GO:0048609,multicellular organismal reproductive pr...,31,1,0.02,0.0154,0.0299
+GO:0031445,regulation of heterochromatin formation,32,1,0.02,0.0158,0.0299
+GO:0120261,regulation of heterochromatin organizati...,32,1,0.02,0.0158,0.0299
+GO:1905268,negative regulation of chromatin organiz...,33,1,0.02,0.0163,0.0299
+GO:0032507,maintenance of protein location in cell,37,1,0.02,0.0183,0.0318
+GO:0000209,protein polyubiquitination,39,1,0.02,0.0193,0.0318
+GO:0045185,maintenance of protein location,41,1,0.02,0.0203,0.0319
+GO:0051651,maintenance of location in cell,48,1,0.02,0.0237,0.0346
+GO:0030466,silent mating-type cassette heterochroma...,49,1,0.02,0.0242,0.0346
+GO:0140719,constitutive heterochromatin formation,51,1,0.03,0.0252,0.0346
+GO:0051235,maintenance of location,56,1,0.03,0.0276,0.0364
+GO:1902275,regulation of chromatin organization,74,1,0.04,0.0365,0.0463
+GO:0006997,nucleus organization,78,1,0.04,0.0384,0.0469
+GO:0010256,endomembrane system organization,86,1,0.04,0.0423,0.0472
+GO:0000724,double-strand break repair via homologou...,87,1,0.04,0.0428,0.0472
+GO:2001251,negative regulation of chromosome organi...,88,1,0.04,0.0433,0.0472
+GO:0000725,recombinational repair,93,1,0.05,0.0457,0.0472
+GO:0031507,heterochromatin formation,94,1,0.05,0.0462,0.0472
+GO:0070828,heterochromatin organization,96,1,0.05,0.0472,0.0472

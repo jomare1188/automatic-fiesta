@@ -1,0 +1,80 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006117,acetaldehyde metabolic process,1,1,0,0.00025,0.0074
+GO:0046187,acetaldehyde catabolic process,1,1,0,0.00025,0.0074
+GO:0000947,amino acid catabolic process to alcohol ...,2,1,0,5e-04,0.0074
+GO:0000955,amino acid catabolic process via Ehrlich...,2,1,0,5e-04,0.0074
+GO:0006115,ethanol biosynthetic process,2,1,0,5e-04,0.0074
+GO:0006068,ethanol catabolic process,3,1,0,0.00075,0.0074
+GO:0019655,glycolytic fermentation to ethanol,3,1,0,0.00075,0.0074
+GO:0019660,glycolytic fermentation,3,1,0,0.00075,0.0074
+GO:0019666,nitrogenous compound fermentation,4,1,0,0.00099,0.0078
+GO:0034310,primary alcohol catabolic process,4,1,0,0.00099,0.0078
+GO:0006567,threonine catabolic process,5,1,0,0.00124,0.0086
+GO:0006116,NADH oxidation,6,1,0,0.00149,0.0086
+GO:0009068,aspartate family amino acid catabolic pr...,6,1,0,0.00149,0.0086
+GO:0006113,fermentation,7,1,0,0.00174,0.0086
+GO:0034309,primary alcohol biosynthetic process,7,1,0,0.00174,0.0086
+GO:0046185,aldehyde catabolic process,7,1,0,0.00174,0.0086
+GO:0006067,ethanol metabolic process,8,1,0,0.00199,0.0087
+GO:0017000,antibiotic biosynthetic process,8,1,0,0.00199,0.0087
+GO:0046164,alcohol catabolic process,9,1,0,0.00224,0.0093
+GO:0097307,response to farnesol,10,1,0,0.00249,0.0094
+GO:0097308,cellular response to farnesol,10,1,0,0.00249,0.0094
+GO:0006566,threonine metabolic process,11,1,0,0.00273,0.0098
+GO:0034308,primary alcohol metabolic process,13,1,0,0.00323,0.0109
+GO:0046031,ADP metabolic process,14,1,0,0.00348,0.0109
+GO:1901616,organic hydroxy compound catabolic proce...,14,1,0,0.00348,0.0109
+GO:0009135,purine nucleoside diphosphate metabolic ...,15,1,0,0.00373,0.0109
+GO:0009179,purine ribonucleoside diphosphate metabo...,15,1,0,0.00373,0.0109
+GO:0009185,ribonucleoside diphosphate metabolic pro...,16,1,0,0.00398,0.0112
+GO:0006734,NADH metabolic process,17,1,0,0.00423,0.0115
+GO:0009132,nucleoside diphosphate metabolic process,19,1,0,0.00472,0.012
+GO:0071396,cellular response to lipid,19,1,0,0.00472,0.012
+GO:0033993,response to lipid,21,1,0.01,0.00522,0.0129
+GO:0017001,antibiotic catabolic process,23,1,0.01,0.00572,0.0137
+GO:0006090,pyruvate metabolic process,25,1,0.01,0.00621,0.0144
+GO:0019674,NAD metabolic process,27,1,0.01,0.00671,0.0151
+GO:1901606,alpha-amino acid catabolic process,30,1,0.01,0.00746,0.0164
+GO:0009063,amino acid catabolic process,32,1,0.01,0.00795,0.017
+GO:0097306,cellular response to alcohol,33,1,0.01,0.0082,0.017
+GO:0097305,response to alcohol,34,1,0.01,0.00845,0.0171
+GO:0006006,glucose metabolic process,39,1,0.01,0.00969,0.0187
+GO:0006081,cellular aldehyde metabolic process,39,1,0.01,0.00969,0.0187
+GO:0046496,nicotinamide nucleotide metabolic proces...,42,1,0.01,0.01044,0.0196
+GO:0019362,pyridine nucleotide metabolic process,44,1,0.01,0.01094,0.0201
+GO:0009066,aspartate family amino acid metabolic pr...,49,1,0.01,0.01218,0.0213
+GO:0072524,pyridine-containing compound metabolic p...,49,1,0.01,0.01218,0.0213
+GO:0019318,hexose metabolic process,51,1,0.01,0.01268,0.0213
+GO:0046034,ATP metabolic process,51,1,0.01,0.01268,0.0213
+GO:0071236,cellular response to antibiotic,53,1,0.01,0.01317,0.0213
+GO:0009205,purine ribonucleoside triphosphate metab...,54,1,0.01,0.01342,0.0213
+GO:0009144,purine nucleoside triphosphate metabolic...,56,1,0.01,0.01392,0.0213
+GO:0009199,ribonucleoside triphosphate metabolic pr...,56,1,0.01,0.01392,0.0213
+GO:0016999,antibiotic metabolic process,58,1,0.01,0.01442,0.0213
+GO:0046677,response to antibiotic,58,1,0.01,0.01442,0.0213
+GO:0009141,nucleoside triphosphate metabolic proces...,61,1,0.02,0.01516,0.0213
+GO:0005996,monosaccharide metabolic process,63,1,0.02,0.01566,0.0213
+GO:0009126,purine nucleoside monophosphate metaboli...,63,1,0.02,0.01566,0.0213
+GO:0009167,purine ribonucleoside monophosphate meta...,63,1,0.02,0.01566,0.0213
+GO:0016054,organic acid catabolic process,64,1,0.02,0.01591,0.0213
+GO:0046395,carboxylic acid catabolic process,64,1,0.02,0.01591,0.0213
+GO:0046165,alcohol biosynthetic process,71,1,0.02,0.01765,0.0232
+GO:0009161,ribonucleoside monophosphate metabolic p...,73,1,0.02,0.01815,0.0235
+GO:0009123,nucleoside monophosphate metabolic proce...,81,1,0.02,0.02013,0.0256
+GO:1901617,organic hydroxy compound biosynthetic pr...,88,1,0.02,0.02187,0.0274
+GO:0006066,alcohol metabolic process,101,1,0.03,0.02511,0.0305
+GO:0044282,small molecule catabolic process,101,1,0.03,0.02511,0.0305
+GO:0009150,purine ribonucleotide metabolic process,106,1,0.03,0.02635,0.0315
+GO:0015980,energy derivation by oxidation of organi...,114,1,0.03,0.02834,0.0329
+GO:1901701,cellular response to oxygen-containing c...,114,1,0.03,0.02834,0.0329
+GO:0009259,ribonucleotide metabolic process,119,1,0.03,0.02958,0.0339
+GO:0019693,ribose phosphate metabolic process,126,1,0.03,0.03132,0.0353
+GO:1901615,organic hydroxy compound metabolic proce...,130,1,0.03,0.03231,0.0358
+GO:1901700,response to oxygen-containing compound,133,1,0.03,0.03306,0.0358
+GO:0006163,purine nucleotide metabolic process,135,1,0.03,0.03356,0.0358
+GO:0032787,monocarboxylic acid metabolic process,135,1,0.03,0.03356,0.0358
+GO:0006091,generation of precursor metabolites and ...,148,1,0.04,0.03679,0.0388
+GO:0072521,purine-containing compound metabolic pro...,154,1,0.04,0.03828,0.0398
+GO:1901605,alpha-amino acid metabolic process,158,1,0.04,0.03927,0.0403
+GO:0009117,nucleotide metabolic process,170,1,0.04,0.04226,0.0428
+GO:0006753,nucleoside phosphate metabolic process,172,1,0.04,0.04275,0.0428

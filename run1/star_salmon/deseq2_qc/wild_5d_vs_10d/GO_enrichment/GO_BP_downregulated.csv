@@ -1,0 +1,15 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0016926,protein desumoylation,6,1,0,0.0015,0.021
+GO:0070646,protein modification by small protein re...,40,1,0.01,0.0099,0.0356
+GO:0030466,silent mating-type cassette heterochroma...,49,1,0.01,0.0122,0.0356
+GO:0016485,protein processing,51,1,0.01,0.0127,0.0356
+GO:0140719,constitutive heterochromatin formation,51,1,0.01,0.0127,0.0356
+GO:0000086,G2/M transition of mitotic cell cycle,76,1,0.02,0.0189,0.0372
+GO:0044839,cell cycle G2/M phase transition,76,1,0.02,0.0189,0.0372
+GO:0031507,heterochromatin formation,94,1,0.02,0.0234,0.0372
+GO:0070828,heterochromatin organization,96,1,0.02,0.0239,0.0372
+GO:0018205,peptidyl-lysine modification,118,1,0.03,0.0293,0.041
+GO:0045814,negative regulation of gene expression, ...,153,1,0.04,0.038,0.0484
+GO:0040029,epigenetic regulation of gene expression,171,1,0.04,0.0425,0.0495
+GO:0051604,protein maturation,191,1,0.05,0.0475,0.0495
+GO:0070647,protein modification by small protein co...,199,1,0.05,0.0495,0.0495

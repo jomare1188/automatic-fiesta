@@ -1,0 +1,14 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009098,leucine biosynthetic process,8,1,0.01,0.006,0.0305
+GO:0016925,protein sumoylation,9,1,0.01,0.0067,0.0305
+GO:0006551,leucine metabolic process,13,1,0.01,0.0097,0.0305
+GO:0009082,branched-chain amino acid biosynthetic p...,14,1,0.01,0.0104,0.0305
+GO:0032042,mitochondrial DNA metabolic process,16,1,0.01,0.0119,0.0305
+GO:0009081,branched-chain amino acid metabolic proc...,19,1,0.01,0.0141,0.0305
+GO:0000022,mitotic spindle elongation,26,1,0.02,0.0193,0.0314
+GO:0051231,spindle elongation,26,1,0.02,0.0193,0.0314
+GO:0010501,RNA secondary structure unwinding,30,1,0.02,0.0222,0.0321
+GO:0000002,mitochondrial genome maintenance,43,1,0.03,0.0317,0.0401
+GO:0007052,mitotic spindle organization,46,1,0.03,0.0339,0.0401
+GO:0007051,spindle organization,56,1,0.04,0.0412,0.0426
+GO:1902850,microtubule cytoskeleton organization in...,58,1,0.04,0.0426,0.0426

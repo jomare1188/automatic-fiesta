@@ -1,0 +1,70 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0000161,osmosensory signaling MAPK cascade,3,1,0,0.00075,0.0285
+GO:0007234,osmosensory signaling via phosphorelay p...,4,1,0,0.00099,0.0285
+GO:0071474,cellular hyperosmotic response,5,1,0,0.00124,0.0285
+GO:0000160,phosphorelay signal transduction system,7,1,0,0.00174,0.03
+GO:0006972,hyperosmotic response,9,1,0,0.00224,0.0309
+GO:0007231,osmosensory signaling pathway,14,1,0,0.00348,0.0369
+GO:0043406,positive regulation of MAP kinase activi...,22,1,0.01,0.00547,0.0369
+GO:0046777,protein autophosphorylation,24,1,0.01,0.00597,0.0369
+GO:0043405,regulation of MAP kinase activity,27,1,0.01,0.00671,0.0369
+GO:0051403,stress-activated MAPK cascade,27,1,0.01,0.00671,0.0369
+GO:0043410,positive regulation of MAPK cascade,31,1,0.01,0.00771,0.0369
+GO:0071902,positive regulation of protein serine/th...,37,1,0.01,0.0092,0.0369
+GO:0031098,stress-activated protein kinase signalin...,40,1,0.01,0.00994,0.0369
+GO:0043408,regulation of MAPK cascade,40,1,0.01,0.00994,0.0369
+GO:0051495,positive regulation of cytoskeleton orga...,42,1,0.01,0.01044,0.0369
+GO:0000165,MAPK cascade,47,1,0.01,0.01168,0.0369
+GO:0032147,activation of protein kinase activity,47,1,0.01,0.01168,0.0369
+GO:0034605,cellular response to heat,50,1,0.01,0.01243,0.0369
+GO:0071470,cellular response to osmotic stress,50,1,0.01,0.01243,0.0369
+GO:0042981,regulation of apoptotic process,54,1,0.01,0.01342,0.0369
+GO:0043067,regulation of programmed cell death,56,1,0.01,0.01392,0.0369
+GO:0071900,regulation of protein serine/threonine k...,58,1,0.01,0.01442,0.0369
+GO:0009408,response to heat,59,1,0.01,0.01467,0.0369
+GO:0045860,positive regulation of protein kinase ac...,59,1,0.01,0.01467,0.0369
+GO:0033674,positive regulation of kinase activity,60,1,0.01,0.01491,0.0369
+GO:0009266,response to temperature stimulus,62,1,0.02,0.01541,0.0369
+GO:1902533,positive regulation of intracellular sig...,62,1,0.02,0.01541,0.0369
+GO:0009967,positive regulation of signal transducti...,65,1,0.02,0.01616,0.0369
+GO:0023056,positive regulation of signaling,65,1,0.02,0.01616,0.0369
+GO:0051347,positive regulation of transferase activ...,67,1,0.02,0.01665,0.0369
+GO:0001934,positive regulation of protein phosphory...,76,1,0.02,0.01889,0.0369
+GO:0010647,positive regulation of cell communicatio...,77,1,0.02,0.01914,0.0369
+GO:0042327,positive regulation of phosphorylation,78,1,0.02,0.01939,0.0369
+GO:0006915,apoptotic process,79,1,0.02,0.01964,0.0369
+GO:0006970,response to osmotic stress,80,1,0.02,0.01989,0.0369
+GO:0032956,regulation of actin cytoskeleton organiz...,83,1,0.02,0.02063,0.0369
+GO:0012501,programmed cell death,84,1,0.02,0.02088,0.0369
+GO:0032970,regulation of actin filament-based proce...,84,1,0.02,0.02088,0.0369
+GO:0008219,cell death,85,1,0.02,0.02113,0.0369
+GO:0045859,regulation of protein kinase activity,86,1,0.02,0.02138,0.0369
+GO:0010562,positive regulation of phosphorus metabo...,94,1,0.02,0.02337,0.0384
+GO:0045937,positive regulation of phosphate metabol...,94,1,0.02,0.02337,0.0384
+GO:0043549,regulation of kinase activity,97,1,0.02,0.02411,0.0387
+GO:0031401,positive regulation of protein modificat...,101,1,0.03,0.02511,0.0394
+GO:0071214,cellular response to abiotic stimulus,106,1,0.03,0.02635,0.0395
+GO:0104004,cellular response to environmental stimu...,106,1,0.03,0.02635,0.0395
+GO:0051493,regulation of cytoskeleton organization,109,1,0.03,0.02709,0.0396
+GO:0051338,regulation of transferase activity,112,1,0.03,0.02784,0.0396
+GO:0001932,regulation of protein phosphorylation,113,1,0.03,0.02809,0.0396
+GO:0048584,positive regulation of response to stimu...,120,1,0.03,0.02983,0.0412
+GO:0034599,cellular response to oxidative stress,125,1,0.03,0.03107,0.042
+GO:0006979,response to oxidative stress,130,1,0.03,0.03231,0.0424
+GO:0042325,regulation of phosphorylation,131,1,0.03,0.03256,0.0424
+GO:1902531,regulation of intracellular signal trans...,140,1,0.03,0.0348,0.0445
+GO:0010638,positive regulation of organelle organiz...,145,1,0.04,0.03604,0.0452
+GO:0030036,actin cytoskeleton organization,154,1,0.04,0.03828,0.0472
+GO:0030029,actin filament-based process,158,1,0.04,0.03927,0.0475
+GO:0062197,cellular response to chemical stress,164,1,0.04,0.04077,0.0485
+GO:0009966,regulation of signal transduction,177,1,0.04,0.044,0.049
+GO:0023051,regulation of signaling,184,1,0.05,0.04574,0.049
+GO:0019220,regulation of phosphate metabolic proces...,185,1,0.05,0.04599,0.049
+GO:0051174,regulation of phosphorus metabolic proce...,185,1,0.05,0.04599,0.049
+GO:0031399,regulation of protein modification proce...,186,1,0.05,0.04623,0.049
+GO:0010646,regulation of cell communication,192,1,0.05,0.04773,0.049
+GO:0051247,positive regulation of protein metabolic...,192,1,0.05,0.04773,0.049
+GO:0009628,response to abiotic stimulus,194,1,0.05,0.04822,0.049
+GO:0043085,positive regulation of catalytic activit...,196,1,0.05,0.04872,0.049
+GO:0051130,positive regulation of cellular componen...,196,1,0.05,0.04872,0.049
+GO:0006468,protein phosphorylation,197,1,0.05,0.04897,0.049

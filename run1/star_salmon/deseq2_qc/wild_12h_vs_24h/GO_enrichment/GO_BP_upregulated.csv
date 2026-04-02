@@ -1,0 +1,30 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0016024,CDP-diacylglycerol biosynthetic process,4,1,0,0.002,0.0193
+GO:0046341,CDP-diacylglycerol metabolic process,4,1,0,0.002,0.0193
+GO:0061186,negative regulation of silent mating-typ...,4,1,0,0.002,0.0193
+GO:0090054,regulation of silent mating-type cassett...,10,1,0,0.005,0.0303
+GO:0031452,negative regulation of heterochromatin f...,13,1,0.01,0.0065,0.0303
+GO:0120262,negative regulation of heterochromatin o...,13,1,0.01,0.0065,0.0303
+GO:0006220,pyrimidine nucleotide metabolic process,19,1,0.01,0.0094,0.0303
+GO:0006221,pyrimidine nucleotide biosynthetic proce...,19,1,0.01,0.0094,0.0303
+GO:0045815,transcription initiation-coupled chromat...,19,1,0.01,0.0094,0.0303
+GO:0031445,regulation of heterochromatin formation,32,1,0.02,0.0158,0.0383
+GO:0120261,regulation of heterochromatin organizati...,32,1,0.02,0.0158,0.0383
+GO:1905268,negative regulation of chromatin organiz...,33,1,0.02,0.0163,0.0383
+GO:0072528,pyrimidine-containing compound biosynthe...,38,1,0.02,0.0188,0.0383
+GO:0000209,protein polyubiquitination,39,1,0.02,0.0193,0.0383
+GO:0072527,pyrimidine-containing compound metabolic...,40,1,0.02,0.0198,0.0383
+GO:0006661,phosphatidylinositol biosynthetic proces...,43,1,0.02,0.0213,0.0386
+GO:0030466,silent mating-type cassette heterochroma...,49,1,0.02,0.0242,0.0406
+GO:0140719,constitutive heterochromatin formation,51,1,0.03,0.0252,0.0406
+GO:0046488,phosphatidylinositol metabolic process,60,1,0.03,0.0296,0.0452
+GO:0046474,glycerophospholipid biosynthetic process,70,1,0.03,0.0345,0.0486
+GO:1902275,regulation of chromatin organization,74,1,0.04,0.0365,0.0486
+GO:0045017,glycerolipid biosynthetic process,75,1,0.04,0.0369,0.0486
+GO:2001251,negative regulation of chromosome organi...,88,1,0.04,0.0433,0.0491
+GO:0031507,heterochromatin formation,94,1,0.05,0.0462,0.0491
+GO:0006650,glycerophospholipid metabolic process,95,1,0.05,0.0467,0.0491
+GO:0008654,phospholipid biosynthetic process,95,1,0.05,0.0467,0.0491
+GO:0070828,heterochromatin organization,96,1,0.05,0.0472,0.0491
+GO:0009165,nucleotide biosynthetic process,100,1,0.05,0.0491,0.0491
+GO:1901293,nucleoside phosphate biosynthetic proces...,100,1,0.05,0.0491,0.0491

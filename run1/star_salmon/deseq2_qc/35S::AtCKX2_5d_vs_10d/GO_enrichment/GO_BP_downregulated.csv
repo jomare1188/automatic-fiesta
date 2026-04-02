@@ -1,0 +1,18 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006072,glycerol-3-phosphate metabolic process,2,1,0,5e-04,0.0058
+GO:0052646,alditol phosphate metabolic process,5,1,0,0.0012,0.0058
+GO:0006071,glycerol metabolic process,6,1,0,0.0015,0.0058
+GO:0006116,NADH oxidation,6,1,0,0.0015,0.0058
+GO:0019400,alditol metabolic process,7,1,0,0.0017,0.0058
+GO:0006734,NADH metabolic process,17,1,0,0.0042,0.0119
+GO:0019751,polyol metabolic process,25,1,0.01,0.0062,0.0142
+GO:0019674,NAD metabolic process,27,1,0.01,0.0067,0.0142
+GO:0046496,nicotinamide nucleotide metabolic proces...,42,1,0.01,0.0104,0.0185
+GO:0019362,pyridine nucleotide metabolic process,44,1,0.01,0.0109,0.0185
+GO:0072524,pyridine-containing compound metabolic p...,49,1,0.01,0.0122,0.0189
+GO:0006066,alcohol metabolic process,101,1,0.03,0.0251,0.0356
+GO:1901615,organic hydroxy compound metabolic proce...,130,1,0.03,0.0323,0.0408
+GO:0006163,purine nucleotide metabolic process,135,1,0.03,0.0336,0.0408
+GO:0072521,purine-containing compound metabolic pro...,154,1,0.04,0.0383,0.0428
+GO:0009117,nucleotide metabolic process,170,1,0.04,0.0423,0.0428
+GO:0006753,nucleoside phosphate metabolic process,172,1,0.04,0.0428,0.0428

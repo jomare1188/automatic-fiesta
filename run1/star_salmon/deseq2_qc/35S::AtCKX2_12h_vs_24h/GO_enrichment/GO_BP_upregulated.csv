@@ -1,0 +1,44 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006072,glycerol-3-phosphate metabolic process,2,1,0,0.002,0.0258
+GO:0009106,lipoate metabolic process,2,1,0,0.002,0.0258
+GO:0009107,lipoate biosynthetic process,2,1,0,0.002,0.0258
+GO:0016024,CDP-diacylglycerol biosynthetic process,4,1,0,0.004,0.0258
+GO:0046341,CDP-diacylglycerol metabolic process,4,1,0,0.004,0.0258
+GO:0061186,negative regulation of silent mating-typ...,4,1,0,0.004,0.0258
+GO:0009249,protein lipoylation,5,1,0,0.005,0.0258
+GO:0052646,alditol phosphate metabolic process,5,1,0,0.005,0.0258
+GO:0006071,glycerol metabolic process,6,1,0.01,0.006,0.0258
+GO:0006116,NADH oxidation,6,1,0.01,0.006,0.0258
+GO:0019400,alditol metabolic process,7,1,0.01,0.0069,0.027
+GO:0090054,regulation of silent mating-type cassett...,10,1,0.01,0.0099,0.0316
+GO:0009117,nucleotide metabolic process,170,2,0.17,0.0101,0.0316
+GO:0006753,nucleoside phosphate metabolic process,172,2,0.17,0.0103,0.0316
+GO:0008610,lipid biosynthetic process,183,2,0.18,0.0116,0.0326
+GO:0031452,negative regulation of heterochromatin f...,13,1,0.01,0.0129,0.0326
+GO:0120262,negative regulation of heterochromatin o...,13,1,0.01,0.0129,0.0326
+GO:0044281,small molecule metabolic process,666,3,0.66,0.0158,0.0351
+GO:0055086,nucleobase-containing small molecule met...,215,2,0.21,0.0159,0.0351
+GO:0006734,NADH metabolic process,17,1,0.02,0.0168,0.0351
+GO:0006220,pyrimidine nucleotide metabolic process,19,1,0.02,0.0188,0.0351
+GO:0006221,pyrimidine nucleotide biosynthetic proce...,19,1,0.02,0.0188,0.0351
+GO:0045815,transcription initiation-coupled chromat...,19,1,0.02,0.0188,0.0351
+GO:0006633,fatty acid biosynthetic process,22,1,0.02,0.0217,0.0389
+GO:0044255,cellular lipid metabolic process,270,2,0.27,0.0246,0.0407
+GO:0019751,polyol metabolic process,25,1,0.02,0.0246,0.0407
+GO:0019674,NAD metabolic process,27,1,0.03,0.0266,0.0422
+GO:0006629,lipid metabolic process,286,2,0.28,0.0275,0.0422
+GO:0019637,organophosphate metabolic process,303,2,0.3,0.0306,0.0435
+GO:0031445,regulation of heterochromatin formation,32,1,0.03,0.0315,0.0435
+GO:0120261,regulation of heterochromatin organizati...,32,1,0.03,0.0315,0.0435
+GO:1905268,negative regulation of chromatin organiz...,33,1,0.03,0.0324,0.0435
+GO:1901564,organonitrogen compound metabolic proces...,1732,4,1.72,0.0343,0.0447
+GO:0072528,pyrimidine-containing compound biosynthe...,38,1,0.04,0.0373,0.0468
+GO:0000209,protein polyubiquitination,39,1,0.04,0.0382,0.0468
+GO:0072527,pyrimidine-containing compound metabolic...,40,1,0.04,0.0392,0.0468
+GO:0046496,nicotinamide nucleotide metabolic proces...,42,1,0.04,0.0411,0.0475
+GO:0006661,phosphatidylinositol biosynthetic proces...,43,1,0.04,0.0421,0.0475
+GO:0019362,pyridine nucleotide metabolic process,44,1,0.04,0.0431,0.0475
+GO:0046483,heterocycle metabolic process,1867,4,1.86,0.0463,0.049
+GO:0030466,silent mating-type cassette heterochroma...,49,1,0.05,0.0479,0.049
+GO:0072524,pyridine-containing compound metabolic p...,49,1,0.05,0.0479,0.049
+GO:0140719,constitutive heterochromatin formation,51,1,0.05,0.0498,0.0498
